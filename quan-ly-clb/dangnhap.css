@@ -1,0 +1,149 @@
+
+.tatca {
+
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: auto;
+}
+.nutquaylai{
+    display: flex;         
+    align-items: center;    
+    text-decoration: none;  
+    color: #000;           
+    font-weight: bold;     
+    font-size: 20px;       
+    margin-bottom: 600px;    
+    margin-top: 30px;
+}
+.nutquaylai a{
+    
+    text-decoration: none;
+}
+.phanthongtindangnhap{
+    flex-direction: column;
+    margin: auto;
+    padding: 300;
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+ .logo img{
+    width: 150px;
+    height: 150px;
+    
+ }
+ .phanthongtindangnhap
+ {
+    font-size: 25px;
+    height: 200px;
+ }
+.phanthongtindangnhap .logo p{
+    color: #00ffe1;
+    font-size: 50px;
+    font-family: "Noticia Text", serif;
+    margin-top: 10px;
+ }
+.phanthongtin .tendangnhap{
+background-color: #d9d9d9; 
+    border-radius: 50px;       
+    padding: 5px 20px;         
+    margin-bottom: 20px;       
+    
+
+    display: flex;             
+    align-items: center;       
+    height: 55px;             
+    box-sizing: border-box;
+    
+}
+.dangnhap1{
+    width: 100%;              
+    background: transparent;   
+    border: none;              
+    outline: none;             
+    font-family: "Noticia Text", serif;
+    font-weight: bold;        
+    font-size: 18px;           
+    color: #000;
+}
+.phanthongtin .password{
+    background-color: #d9d9d9; 
+    border-radius: 50px;       
+    padding: 5px 20px;         
+    margin-bottom: 20px;       
+    
+
+    display: flex;             
+    align-items: center;       
+    height: 55px;             
+    box-sizing: border-box;
+}
+.mk
+{
+      width: 100%;              
+    background: transparent;   
+    border: none;              
+    outline: none;             
+    font-family: "Noticia Text", serif;
+    font-weight: bold;        
+    font-size: 18px;           
+    color: #000;
+}
+.luachon
+{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.quenmatkhau{
+    text-decoration: none;
+    font-weight: bold; 
+}
+
+
+.odangnhap{
+    width: 100%;               
+    padding: 12px 0;           
+    background-color: #00ffe1;               
+    border: none;              
+    border-radius: 50px;      
+    font-weight: bold;        
+    font-size: 26px;          
+    cursor: pointer;           
+    margin-top: 20px;
+}
+.odangnhap a{
+     text-decoration: none;
+}
+.dangnhap
+{
+     font-family: "Noticia Text", serif;
+     color: #000;
+}
+.phancuoi p{
+     font-family: "Noticia Text", serif;
+      font-weight: bold; 
+}
+.phancuoi p a{
+     text-decoration: none;
+      font-weight: bold; 
+}
+.noidung
+{
+     margin: 0;
+    display: flex;
+    padding: auto;
+    flex-direction: column;
+    margin-right: 300px;
+    align-items: center;
+}
+ .chu{
+    font-size: 27px;
+    color: #00ffe1;
+}
+.noidung img{
+  width: 200px;
+  height: 175px;
+}

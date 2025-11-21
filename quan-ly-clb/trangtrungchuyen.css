@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.tatca{
+       margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: auto;
+}
+.trai{
+    flex-direction: column;
+    background-color: #00ffe1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100vh;
+    padding: 30px 20px;
+} 
+.phai{
+    flex-direction: column;
+    background-color: #00ffe1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100vh;
+    padding: 30px 20px;
+}
+.giua{
+ display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh; /* Căn giữa màn hình */
+margin: 0;
+}
+.giua .ochua{
+    background-color: #00ffe1; 
+    width: 800px; 
+    height: 600px;
+    padding: 40px; 
+    border-radius: 40px; 
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+     gap: 100px
+}
+.ochua .qlclb
+{
+background-color: white;
+border-radius: 25px;
+padding: 40px 20px; 
+text-align: center;
+font-size: 60px; 
+color: black;
+cursor: pointer; 
+text-decoration: none;
+box-shadow: 0 4px 10px rgba(0,0,0,2.5);
+transition: transform 0.3s ease;
+
+}
+.qlclb:hover{
+    transform: translateY(-10px);
+}
+.ochua .qlntt{
+background-color: white;
+border-radius: 25px;
+padding: 40px 20px; 
+text-align: center;
+font-size: 60px; 
+color: black;
+cursor: pointer; 
+text-decoration: none;
+box-shadow: 0 4px 10px rgba(0,0,0,2.5);
+transition: transform 0.3s ease;
+}
+.qlntt:hover{
+    transform: translateY(-10px);
+}
+

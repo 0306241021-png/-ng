@@ -1,0 +1,173 @@
+
+.tatca {
+
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: auto;
+}
+.nutquaylai{
+    display: flex;         
+    align-items: center;    
+    text-decoration: none;  
+    color: #000;           
+    font-weight: bold;     
+    font-size: 20px;       
+    margin-bottom: 600px;    
+    margin-top: 30px;
+}
+.nutquaylai a{
+    
+    text-decoration: none;
+}
+.phanthongtindangnhap{
+    flex-direction: column;
+    margin: auto;
+    padding: 300;
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+ .logo img{
+    width: 150px;
+    height: 150px;
+    
+ }
+ .phanthongtindangnhap
+ {
+    font-size: 25px;
+    height: 200px;
+ }
+.phanthongtindangnhap .logo p{
+    color: #00ffe1;
+    font-size: 50px;
+    font-family: "Noticia Text", serif;
+    margin-top: 10px;
+ }
+ .tendangnhap {
+
+    flex-direction: column;
+}
+.chuatieude1
+{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.dangky1{
+    background-color: #d9d9d9; 
+    border-radius: 50px;       
+    padding: 5px 20px;         
+    margin-bottom: 20px;   
+    
+    display: flex;             
+    align-items: center;       
+    height: 55px;             
+    box-sizing: border-box;
+    width: 100%;              
+    border: none;              
+    outline: none;             
+    font-family: "Noticia Text", serif;
+    font-weight: bold;        
+    font-size: 18px;           
+    color: #000;
+}
+
+.chuatieude2
+{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.mk{
+     background-color: #d9d9d9; 
+    border-radius: 50px;       
+    padding: 5px 20px;         
+    margin-bottom: 20px;   
+    
+    display: flex;             
+    align-items: center;       
+    height: 55px;             
+    box-sizing: border-box;
+    width: 100%;              
+    border: none;              
+    outline: none;             
+    font-family: "Noticia Text", serif;
+    font-weight: bold;        
+    font-size: 18px;           
+    color: #000;
+}
+.password .mknhaplai{
+     background-color: #d9d9d9; 
+    border-radius: 50px;       
+    padding: 5px 20px;         
+    margin-bottom: 20px;   
+    display: flex;             
+    align-items: center;       
+    height: 55px;             
+    box-sizing: border-box;
+    width: 100%;              
+    border: none;              
+    outline: none;             
+    font-family: "Noticia Text", serif;
+    font-weight: bold;        
+    font-size: 18px;           
+    color: #000;
+}
+.odangky{
+    width: 100%;               
+    padding: 12px 0;           
+    background-color: #00ffe1;               
+    border: none;              
+    border-radius: 50px;      
+    font-weight: bold;        
+    font-size: 26px;          
+    cursor: pointer;           
+    margin-top: 20px;
+}
+.odangky a{
+     text-decoration: none;
+}
+.phancuoi p{
+     font-family: "Noticia Text", serif;
+      font-weight: bold; 
+}
+.phancuoi p a{
+     text-decoration: none;
+      font-weight: bold; 
+}
+.dangky
+{
+     font-family: "Noticia Text", serif;
+     color: #000;
+}
+.noidung
+{
+     margin: 0;
+    display: flex;
+    padding: auto;
+    flex-direction: column;
+    margin-right: 300px;
+    align-items: center;
+}
+.noidung img{
+  width: 200px;
+  height: 175px;
+}
+.chu {
+    font-size: 27px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    
+}
+.chutieude  {
+color: #00ffe1;
+margin-bottom: 40px;
+
+}
+.noidung{
+    display: flex;
+    justify-content: center;
+     align-items: center;
+     margin-top: 300px;
+}

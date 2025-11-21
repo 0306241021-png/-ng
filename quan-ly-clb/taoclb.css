@@ -1,0 +1,133 @@
+ body{
+    margin: 0;
+    padding: 0;
+}
+ .tatca
+  {
+   margin: 0
+   ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: auto;
+  }
+  .trai{
+  display: flex;
+  align-items: center;
+    background-color: #00ffe1;
+   height: 850px;
+  }
+  .phai{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-left: 20px;
+    width: 100%;
+    flex: 1;
+    margin-top: 10px;
+  }
+  .trencung{
+    font-family: "Noticia Text", serif;
+    font-weight: bold;font-weight: bold;
+  }
+  .trencung .tieude{
+    color: #00ffe1;
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  .trencung img{
+    width: 150px;
+    height: 150px;
+    margin-left: 30px;
+  }
+ .trencung .chuduoi{
+    margin-left: 30px;
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  .thongtin{
+    margin-top: 10px;
+  }
+  .thongtin .ten{
+    flex-direction: column;
+   font-weight: bold;
+  }
+  .ten .tenclb{
+    background-color: #d9d9d9; 
+    border-radius: 20px;       
+    padding: 5px 20px;         
+    margin-bottom: 20px;   
+    margin-top: 10px;
+    display: flex;             
+    align-items: center;       
+    height: 55px;             
+    box-sizing: border-box;
+    width: 50%;              
+    border: none;              
+    outline: none;             
+    font-family: "Noticia Text", serif;
+    font-weight: bold;        
+    font-size: 18px;           
+    color: #000;
+  }
+    .thongtin .email{
+    flex-direction: column;
+   font-weight: bold;
+  }
+  .email .lienhe{
+    background-color: #d9d9d9; 
+    border-radius: 20px;       
+    padding: 5px 20px;         
+    margin-bottom: 20px;   
+    margin-top: 10px;
+    display: flex;             
+    align-items: center;       
+    height: 55px;             
+    box-sizing: border-box;
+    width: 50%;              
+    border: none;              
+    outline: none;             
+    font-family: "Noticia Text", serif;
+    font-weight: bold;        
+    font-size: 18px;           
+    color: #000;
+  }
+.thongtin .linhvuc{
+    flex-direction: column;
+   font-weight: bold;
+  }
+    .linhvuc .lvhd{
+    background-color: #d9d9d9; 
+    border-radius: 20px;       
+    padding: 5px 20px;         
+    margin-bottom: 20px;   
+    margin-top: 10px;
+    display: flex;             
+    align-items: center;       
+    height: 55px;             
+    box-sizing: border-box;
+    width: 50%;              
+    border: none;              
+    outline: none;             
+    font-family: "Noticia Text", serif;
+    font-weight: bold;        
+    font-size: 18px;           
+    color: #000;
+  }
+  .thongtin .taoclb
+  {
+    display: flex;
+    width: 1000px;               
+    padding: 10px;           
+    background-color: #00ffe1;               
+    border: none;              
+    border-radius: 50px;      
+    font-weight: bold;        
+  
+  }
+  .thongtin a{
+     text-decoration: none;
+     color: #000;
+     justify-content: center;
+     font-size: 40px;
+  }

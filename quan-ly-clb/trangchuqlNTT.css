@@ -1,0 +1,153 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    margin: 0;
+    background-color: #00ffe1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:auto;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.logo h1{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-family: "Noticia Text", serif;
+
+ 
+}
+.logo img{
+    width: 70px;
+    height: 70px;
+}
+.thanhcacmuctin ul {
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    margin: 0px;
+    padding: auto;
+    justify-content: space-between;
+    
+}
+.thanhcacmuctin ul li{
+
+    margin: 0 80px;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 300;
+    font-family: "Irish Grover", system-ui;
+}
+.thanhcacmuctin ul li a{
+   
+    text-decoration: none;
+}
+.acc{
+    display: flex;
+     justify-content: space-between;
+    align-items: center;
+     font-family: "Irish Grover", system-ui;
+}
+.acc p{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.acc img{
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+}
+.mucchonnhaqly{
+    background-color: #00ffe1;
+   border-radius: 70px;
+    padding: 20px 40px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    margin-top: 90px;
+    margin-left: 150px;
+}
+.chon1
+{
+    text-decoration: none;
+    font-family: "Noticia Text", serif;
+    
+    font-size: 28px;
+    margin-bottom: 20px;
+     border-radius: 20px;
+    color: black;
+    border: 5px solid #0ae2ff;
+}
+.chon1:hover
+{
+    
+    box-shadow: 0 5px 9px rgba(0,0,0,0.3);
+    transform: translateY(-1);
+}
+.chon2{
+     text-decoration: none;
+    font-family: "Noticia Text", serif;
+    color: #000000;
+    font-size: 28px;
+     margin-bottom: 20px;
+     border-radius: 20px;
+    color: black;
+    border: 5px solid #0ae2ff;
+    
+}
+.chon2:hover
+{
+    
+    box-shadow: 0 5px 9px rgba(0,0,0,0.3);
+    transform: translateY(-1);
+}
+.benduoi{
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:auto;
+}
+
+.chuand{
+    background-color: #00ffe1; 
+    border-radius: 30px; 
+    padding: 50px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 10px 20px rgba(0, 255, 213, 0.2)
+}
+.benphai{
+    font-size: 30px;
+    margin-right: 20px;
+}
+.tieudenoi{
+    color: #00ffe1;
+    align-items: center;
+    margin-left: 300px;
+}
+.nd{
+    margin-left: 100px;
+}
+.xacthucntt{
+    display: flex;
+    align-items: center;
+}
+.xacthucntt .xacthuc
+{
+    font-weight: bold;
+    text-decoration: none;
+    color: #000000;
+}
